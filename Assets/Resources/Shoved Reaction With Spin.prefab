@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8773601160810281071
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: db977dda0e2a7db44bc2cb160d1cbba6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10.970067
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: db977dda0e2a7db44bc2cb160d1cbba6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.13647556
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: db977dda0e2a7db44bc2cb160d1cbba6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -9.490816
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: db977dda0e2a7db44bc2cb160d1cbba6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: db977dda0e2a7db44bc2cb160d1cbba6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: db977dda0e2a7db44bc2cb160d1cbba6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: db977dda0e2a7db44bc2cb160d1cbba6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: db977dda0e2a7db44bc2cb160d1cbba6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: db977dda0e2a7db44bc2cb160d1cbba6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: db977dda0e2a7db44bc2cb160d1cbba6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3936526423822469124, guid: db977dda0e2a7db44bc2cb160d1cbba6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 29c432174b7483746888b5e61285f1db, type: 2}
+    - target: {fileID: -3907693484937974733, guid: db977dda0e2a7db44bc2cb160d1cbba6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 699af7cfbe674384a8d03b95d3cabf00, type: 2}
+    - target: {fileID: 919132149155446097, guid: db977dda0e2a7db44bc2cb160d1cbba6, type: 3}
+      propertyPath: m_Name
+      value: Shoved Reaction With Spin
+      objectReference: {fileID: 0}
+    - target: {fileID: 2366438565355418083, guid: db977dda0e2a7db44bc2cb160d1cbba6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 699af7cfbe674384a8d03b95d3cabf00, type: 2}
+    - target: {fileID: 2589688874804274011, guid: db977dda0e2a7db44bc2cb160d1cbba6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 29c432174b7483746888b5e61285f1db, type: 2}
+    - target: {fileID: 3091348740394778479, guid: db977dda0e2a7db44bc2cb160d1cbba6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 29c432174b7483746888b5e61285f1db, type: 2}
+    - target: {fileID: 8344238837459971831, guid: db977dda0e2a7db44bc2cb160d1cbba6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 699af7cfbe674384a8d03b95d3cabf00, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: db977dda0e2a7db44bc2cb160d1cbba6, type: 3}
